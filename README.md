@@ -1,8 +1,8 @@
-# GitHub Profile Analytics V4
+# GitHub Profile Analytics
 
 A production-clean, serverless GitHub portfolio analytics dashboard for `shubham-k-jha`.
 
-## What changed in V4
+## What's in this repo
 
 - Uses current Upstash environment-variable names first:
   - `UPSTASH_REDIS_REST_URL`
