@@ -1,0 +1,7 @@
+{
+  "name": "github-profile-analytics-v4",
+  "private": true,
+  "version": "4.0.0",
+  "description": "GitHub profile analytics dashboard with a self-hosted visitor counter.",
+  "engines": { "node": ">=18" }
+}
